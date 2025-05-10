@@ -47,11 +47,6 @@
 </div>
 
 <hr/>
-<div align="center">
- 
-  <img height="500" width="700" style="border-radius: 50px" src="/assets/gifzao.gif"/>
-  
-</div>
 
 <br />
 <hr/>
