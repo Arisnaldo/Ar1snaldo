@@ -41,8 +41,11 @@
 <hr />
 
 <div align="center">
-  <h2>🐍 Minhas Contribuições 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ar1snaldo/ar1snaldo/output/github-contribution-grid-snake.svg"/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
   <br /><br /><br/>
 </div>
 
